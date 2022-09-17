@@ -1,0 +1,16 @@
+{
+  "softdrinks": [
+    {
+      "id": 1,
+      "name": "Dal Makhni",
+      "price": "Rs 150",
+      "category": "Veg"
+    },
+    {
+      "id": 1,
+      "name": "Tandoori Chicken",
+      "price": "Rs 250",
+      "category": "Non-veg"
+    }
+  ]
+}

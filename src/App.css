@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.flex > h3 {
+  /* border: 1px solid blac; */
+  width: 30%;
+}
